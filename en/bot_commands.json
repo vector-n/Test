@@ -1,0 +1,19 @@
+{
+  "start": "Start the bot",
+  "broadcast": "Send broadcast to subscribers",
+  "subscribers": "View your subscribers",
+  "stats": "View bot statistics",
+  "menu": "Create button menus",
+  "settings": "Bot settings",
+  "help": "Get help",
+  "err_missing_desc": "Line {line}: <code>{cmd}</code> — missing description",
+  "err_invalid_name": "Line {line}: <code>{cmd}</code> — invalid command name",
+  "err_name_too_long": "Line {line}: command name too long (max 32 chars)",
+  "err_desc_too_long": "Line {line}: description too long (max 256 chars)",
+  "err_block_msg": "{e_warning} Some lines had errors:\n{errors}\n\nFix them and send again, or tap Skip.",
+  "tag_too_long": "Tag too long (max {max} chars). Please try again.",
+  "tag_added": "{e_success} Tag <b>{tag}</b> added.",
+  "add_tag_btn": "Add Tag",
+  "confirm_ban_btn": "Confirm Ban",
+  "confirm_bulk_ban_btn": "Confirm Bulk Ban"
+}

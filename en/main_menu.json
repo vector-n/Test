@@ -1,0 +1,14 @@
+{
+  "ai_assistant_btn": "AI Assistant",
+  "analytics_btn": "Analytics",
+  "has_bots_many": "{e_bot} You have <b>{count} bots</b> configured.",
+  "has_bots_one": "{e_bot} You have <b>1 bot</b> configured.",
+  "no_bots": "{e_add} No bots yet — tap <b>My Bots</b> to create your first one. Takes less than a minute.",
+  "help_btn": "Help",
+  "language_btn": "Language",
+  "my_bots_btn": "My Bots",
+  "news_btn": "Our News",
+  "premium_btn": "Premium",
+  "title": "{e_home} <b>Main Menu</b>",
+  "welcome": "{e_bot} <b>Welcome to ChatFuel, {name}!</b>\n\n<i>The complete bot management platform for Telegram — no coding needed.</i>\n\n<b>What you can do:</b>\n<blockquote expandable>• Build interactive menus with button actions\n• Collect subscriber answers step-by-step with Forms\n• Broadcast messages to your entire audience\n• Automate replies with Keyword triggers\n• Track growth &amp; engagement with Analytics\n• Run Referral campaigns &amp; Paid access gates\n• Protect your bot with Captcha &amp; Force Join</blockquote>\n\n<b>Tap My Bots below to get started.</b>"
+}

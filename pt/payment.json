@@ -1,0 +1,7 @@
+{
+  "default_title": "Pagamento",
+  "default_description": "Por favor, conclua seu pagamento.",
+  "invoice_send_failed": "Não foi possível criar a fatura de pagamento. Por favor, tente novamente.",
+  "withdraw_confirm_btn": "Confirmar",
+  "withdraw_cancel_btn": "Cancelar"
+}

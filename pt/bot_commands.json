@@ -1,0 +1,19 @@
+{
+  "start": "Iniciar o bot",
+  "broadcast": "Enviar transmissão para assinantes",
+  "subscribers": "Ver seus assinantes",
+  "stats": "Ver estatísticas do bot",
+  "menu": "Criar menus de botões",
+  "settings": "Configurações do bot",
+  "help": "Obter ajuda",
+  "err_missing_desc": "Linha {line}: <code>{cmd}</code> — descrição ausente",
+  "err_invalid_name": "Linha {line}: <code>{cmd}</code> — nome de comando inválido",
+  "err_name_too_long": "Linha {line}: nome do comando muito longo (máx. 32 caracteres)",
+  "err_desc_too_long": "Linha {line}: descrição muito longa (máx. 256 caracteres)",
+  "err_block_msg": "{e_warning} Algumas linhas tiveram erros:\n{errors}\n\nCorrija-as e envie novamente, ou toque em Pular.",
+  "tag_too_long": "Tag muito longa (máx. {max} caracteres). Por favor, tente novamente.",
+  "tag_added": "{e_success} Tag <b>{tag}</b> adicionada.",
+  "add_tag_btn": "Adicionar Tag",
+  "confirm_ban_btn": "Confirmar Banimento",
+  "confirm_bulk_ban_btn": "Confirmar Banimento em Massa"
+}

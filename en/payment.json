@@ -1,0 +1,7 @@
+{
+  "default_title": "Payment",
+  "default_description": "Please complete your payment.",
+  "invoice_send_failed": "Could not create the payment invoice. Please try again.",
+  "withdraw_confirm_btn": "Confirm",
+  "withdraw_cancel_btn": "Cancel"
+}

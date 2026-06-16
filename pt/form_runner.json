@@ -1,0 +1,13 @@
+{
+  "already_submitted": "Você já enviou este formulário. Obrigado!",
+  "form_closed": "Este formulário não está mais aceitando respostas.",
+  "new_response_notify": "<b>Nova Resposta de Formulário!</b>\n\nBot: <b>{bot_name}</b>\nFormulário: <b>{form_name}</b>\nDe: {from_user}\nTotal de respostas: {count}",
+  "no_btn": "Não",
+  "no_questions": "Este formulário ainda não tem perguntas.",
+  "skip_btn": "Pular",
+  "validation_email": "Por favor, insira um endereço de e-mail válido (ex.: nome@exemplo.com).",
+  "validation_number": "Por favor, insira um número válido.",
+  "validation_phone": "Por favor, insira um número de telefone válido.",
+  "validation_text": "Por favor, envie uma resposta em texto.",
+  "yes_btn": "Sim"
+}

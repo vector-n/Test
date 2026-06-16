@@ -1,0 +1,22 @@
+{
+  "boost_expired_msg": "{e_warning} <b>Boost plan expired.</b>\n\nYour free Basic plan has been revoked because your channel boost is no longer active.\n\nRe-boost or upgrade via /premium.",
+  "boost_granted_msg": "{e_rocket} <b>Thank you for boosting!</b>\n\nYou've been granted the <b>Basic</b> plan for free.\n{e_calendar} Active until: {expires}\n\nYour boost keeps the plan alive — if you remove it, the plan will be revoked automatically.",
+  "boost_removed_msg": "{e_warning} <b>Your boost was removed.</b>\n\nYour free <b>Basic</b> plan has been revoked and your account has been downgraded to <b>Free</b>.\n\nYou can re-boost the channel at any time to get it back, or upgrade via /premium.",
+  "cancelled_message": "<b>Subscription Cancelled</b>\n\nYour <b>{plan}</b> subscription has been cancelled.\n\n<b>What's Next:</b>\n• Your current subscription remains active until {expires}\n• After that, you'll automatically be moved to the Free plan\n• You can re-subscribe anytime before then\n\nWe're sorry to see you go!",
+  "expiry_notification_body": "Your <b>{plan}</b> subscription expired on <b>{date}</b>. Your account has been moved to the <b>Free plan</b>.\n\n<b>What changed:</b>\n• Extra bots have been paused (your oldest bot stays active)\n• Broadcasts are limited to 1 per day\n• Advanced features are locked\n\n{e_save} <b>Your data is safe</b> — all your menus, subscribers, forms, broadcasts, referral links, and bot settings are still there. Renewing your plan restores everything instantly with no setup required.\n\nTap below to reactivate your subscription and pick up right where you left off.",
+  "expiry_notification_cta": "{e_premium} Reactivate Plan",
+  "expiry_notification_title": "{e_empty_mailbox} <b>Your {plan} Plan Has Expired</b>",
+  "feature_locked_toast": "🔒 This feature is not available on your current plan. Tap the upgrade button to unlock it.",
+  "form_unavailable_subscriber_toast": "⚠️ This form is not available to subscribers.",
+  "no_active_subscription": "You don't have an active subscription to cancel.",
+  "payment_cost_label": "Cost",
+  "payment_expires_label": "Expires",
+  "payment_plan_label": "Plan",
+  "payment_success_active": "Your <b>{plan}</b> subscription is now active!",
+  "payment_success_title": "<b>Payment Successful!</b>",
+  "plan_downgraded_toast": "🔒 Your plan has expired and this feature is now locked. Renew your plan to restore full access.",
+  "renewal_reminder_body": "Your <b>{plan}</b> subscription expires on <b>{date}</b> — that's <b>{days} day(s)</b> from now.\n\nAfter expiry, your account will automatically be moved to the <b>Free plan</b> and the following will be paused:\n• Extra bots beyond the 1-bot free limit\n• Broadcasts beyond 1/day\n• Advanced features (sequences, paid community, forms, referrals, and more)\n\n{e_save} <b>Your data is safe</b> — all your menus, subscribers, forms, broadcasts, and settings are preserved. If you renew, everything is restored instantly.\n\nTap below to renew and keep uninterrupted access.",
+  "renewal_reminder_cta": "{e_webhook} Renew Now",
+  "renewal_reminder_title": "{e_hourglass} <b>Your {plan} Plan Expires Soon</b>",
+  "thank_you_upgrade": "Thank you for upgrading!"
+}

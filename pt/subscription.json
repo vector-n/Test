@@ -1,0 +1,22 @@
+{
+  "boost_expired_msg": "{e_warning} <b>Plano Boost expirado.</b>\n\nSeu plano Basic gratuito foi revogado porque o boost do seu canal não está mais ativo.\n\nReative o boost ou faça upgrade via /premium.",
+  "boost_granted_msg": "{e_rocket} <b>Obrigado pelo boost!</b>\n\nVocê recebeu o plano <b>Basic</b> gratuitamente.\n{e_calendar} Ativo até: {expires}\n\nO seu boost mantém o plano ativo — se você o remover, o plano será revogado automaticamente.",
+  "boost_removed_msg": "{e_warning} <b>Seu boost foi removido.</b>\n\nSeu plano <b>Basic</b> gratuito foi revogado e sua conta voltou para o plano <b>Free</b>.\n\nVocê pode reativar o boost do canal a qualquer momento para recuperá-lo, ou fazer upgrade via /premium.",
+  "cancelled_message": "<b>Assinatura Cancelada</b>\n\nSua assinatura do <b>{plan}</b> foi cancelada.\n\n<b>O que acontece agora:</b>\n• Sua assinatura atual permanece ativa até {expires}\n• Depois disso, você será movido automaticamente para o plano Free\n• Você pode assinar novamente a qualquer momento antes disso\n\nSentiremos sua falta!",
+  "expiry_notification_body": "Sua assinatura do <b>{plan}</b> expirou em <b>{date}</b>. Sua conta foi movida para o <b>plano Free</b>.\n\n<b>O que mudou:</b>\n• Bots extras foram pausados (seu bot mais antigo continua ativo)\n• Broadcasts limitados a 1 por dia\n• Recursos avançados bloqueados\n\n{e_save} <b>Seus dados estão seguros</b> — todos os seus menus, assinantes, formulários, broadcasts, links de indicação e configurações do bot ainda estão lá. Renovar o plano restaura tudo instantaneamente, sem precisar reconfigurar nada.\n\nToque abaixo para reativar sua assinatura e continue de onde parou.",
+  "expiry_notification_cta": "{e_premium} Reativar Plano",
+  "expiry_notification_title": "{e_empty_mailbox} <b>Seu Plano {plan} Expirou</b>",
+  "feature_locked_toast": "🔒 Este recurso não está disponível no seu plano atual. Toque no botão de upgrade para desbloquear.",
+  "form_unavailable_subscriber_toast": "⚠️ Este formulário não está disponível para assinantes.",
+  "no_active_subscription": "Você não tem uma assinatura ativa para cancelar.",
+  "payment_cost_label": "Valor",
+  "payment_expires_label": "Expira em",
+  "payment_plan_label": "Plano",
+  "payment_success_active": "Sua assinatura do <b>{plan}</b> está ativa!",
+  "payment_success_title": "<b>Pagamento Efetuado com Sucesso!</b>",
+  "plan_downgraded_toast": "🔒 Seu plano expirou e este recurso está bloqueado. Renove seu plano para restaurar o acesso completo.",
+  "renewal_reminder_body": "Sua assinatura do <b>{plan}</b> expira em <b>{date}</b> — faltam <b>{days} dia(s)</b>.\n\nApós a expiração, sua conta será movida automaticamente para o <b>plano Free</b> e o seguinte será pausado:\n• Bots extras além do limite gratuito de 1 bot\n• Broadcasts além de 1/dia\n• Recursos avançados (sequências, comunidade paga, formulários, indicações e muito mais)\n\n{e_save} <b>Seus dados estão seguros</b> — todos os seus menus, assinantes, formulários, broadcasts e configurações estão preservados. Se você renovar, tudo é restaurado instantaneamente.\n\nToque abaixo para renovar e manter o acesso sem interrupções.",
+  "renewal_reminder_cta": "{e_webhook} Renovar Agora",
+  "renewal_reminder_title": "{e_hourglass} <b>Seu Plano {plan} Expira em Breve</b>",
+  "thank_you_upgrade": "Obrigado pelo upgrade!"
+}

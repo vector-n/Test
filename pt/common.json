@@ -1,0 +1,17 @@
+{
+  "back_btn": "Voltar",
+  "cancel": "Cancelar",
+  "cancel_btn": "Cancelar",
+  "confirm": "Confirmar",
+  "current": "Atual",
+  "days": "dias",
+  "delete_btn": "Excluir",
+  "error_toast": "❌ Algo deu errado.",
+  "loading": "Carregando…",
+  "next_btn": "Próximo",
+  "previous_btn": "Anterior",
+  "saved_alert": "✅ Salvo",
+  "unknown_error": "{e_cancel} Algo deu errado. Por favor, tente novamente.",
+  "unknown_error_msg": "{e_cancel} Algo deu errado. Por favor, tente novamente.",
+  "unknown_error_toast": "❌ Algo deu errado. Por favor, tente novamente."
+}

@@ -1,0 +1,17 @@
+{
+  "back_btn": "Back",
+  "cancel": "Cancel",
+  "cancel_btn": "Cancel",
+  "confirm": "Confirm",
+  "current": "Current",
+  "days": "days",
+  "delete_btn": "Delete",
+  "error_toast": "❌ Something went wrong.",
+  "loading": "Loading…",
+  "next_btn": "Next",
+  "previous_btn": "Previous",
+  "saved_alert": "✅ Saved",
+  "unknown_error": "{e_cancel} Something went wrong. Please try again.",
+  "unknown_error_msg": "{e_cancel} Something went wrong. Please try again.",
+  "unknown_error_toast": "❌ Something went wrong. Please try again."
+}

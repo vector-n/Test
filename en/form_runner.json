@@ -1,0 +1,13 @@
+{
+  "already_submitted": "You've already submitted this form. Thank you!",
+  "form_closed": "This form is no longer accepting responses.",
+  "new_response_notify": "<b>New Form Response!</b>\n\nBot: <b>{bot_name}</b>\nForm: <b>{form_name}</b>\nFrom: {from_user}\nTotal responses: {count}",
+  "no_btn": "No",
+  "no_questions": "This form has no questions yet.",
+  "skip_btn": "Skip",
+  "validation_email": "Please enter a valid email address (e.g. name@example.com).",
+  "validation_number": "Please enter a valid number.",
+  "validation_phone": "Please enter a valid phone number.",
+  "validation_text": "Please send a text reply.",
+  "yes_btn": "Yes"
+}

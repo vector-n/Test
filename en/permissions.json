@@ -1,0 +1,5 @@
+{
+  "denied": "You don't have permission to do this.",
+  "denied_title": "Access Denied",
+  "denied_body": "You don't have permission to perform this action. Contact the bot owner if you think this is a mistake."
+}

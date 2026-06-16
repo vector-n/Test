@@ -1,0 +1,6 @@
+{
+  "title": "Idioma",
+  "current": "Idioma atual",
+  "select": "Selecione seu idioma:\n<blockquote>Se o seu idioma tiver tradução incorreta, por favor nos avise <a href='https://t.me/ChatFuelUpdates?direct'>aqui</a>.\n\nVamos corrigir imediatamente. Obrigado {e_smile}</blockquote>",
+  "language_changed_alert": "✅ Idioma alterado para {language}."
+}

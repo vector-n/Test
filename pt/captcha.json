@@ -1,0 +1,16 @@
+{
+  "challenge_expired_toast": "⏱ Desafio expirado. Por favor, envie /start novamente.",
+  "preview_btn": "Visualizar Desafio",
+  "preview_header": "{e_eyes} <b>Pré-visualização</b> — <i>{type} captcha (os assinantes veem isto)</i>",
+  "preview_toast": "👁 Apenas pré-visualização — nenhuma verificação está acontecendo.",
+  "security_btn": "Segurança",
+  "settings_title": "{e_captcha} <b>Segurança</b>\n\nExija que novos assinantes passem por um desafio rápido antes de usar o bot. Isso filtra contas automatizadas e bots.\n\n<blockquote>Tipos de desafio:\n• Emoji — toque no emoji correto de uma grade\n• Matemática — resolva uma adição simples\n\nUm assinante que falhar {max_attempts} vezes fica bloqueado por 1 hora.</blockquote>",
+  "status_off": "Captcha está <b>desativado</b>",
+  "status_on": "Captcha está <b>ativado</b>",
+  "toggle_disable": "Desativar Captcha",
+  "toggle_enable": "Ativar Captcha",
+  "type_changed_alert": "✅ Tipo de captcha alterado.",
+  "type_emoji_btn": "Emoji",
+  "type_label": "Tipo: <b>{type}</b>",
+  "type_math_btn": "Matemática"
+}

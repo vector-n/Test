@@ -1,0 +1,16 @@
+{
+  "challenge_expired_toast": "⏱ Challenge expired. Please send /start again.",
+  "preview_btn": "Preview Challenge",
+  "preview_header": "{e_eyes} <b>Preview</b> — <i>{type} captcha (subscribers see this)</i>",
+  "preview_toast": "👁 Preview only — no verification happening.",
+  "security_btn": "Security",
+  "settings_title": "{e_captcha} <b>Security</b>\n\nRequire new subscribers to pass a quick challenge before using the bot. This filters out automated accounts and bots.\n\n<blockquote>Challenge types:\n• Emoji — tap the correct emoji from a grid\n• Math — solve a simple addition\n\nA subscriber who fails {max_attempts} times is blocked for 1 hour.</blockquote>",
+  "status_off": "Captcha is <b>disabled</b>",
+  "status_on": "Captcha is <b>enabled</b>",
+  "toggle_disable": "Disable Captcha",
+  "toggle_enable": "Enable Captcha",
+  "type_changed_alert": "✅ Captcha type changed.",
+  "type_emoji_btn": "Emoji",
+  "type_label": "Type: <b>{type}</b>",
+  "type_math_btn": "Math"
+}

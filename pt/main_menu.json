@@ -1,0 +1,14 @@
+{
+  "ai_assistant_btn": "Assistente de IA",
+  "analytics_btn": "Analytics",
+  "has_bots_many": "{e_bot} Você tem <b>{count} bots</b> configurados.",
+  "has_bots_one": "{e_bot} Você tem <b>1 bot</b> configurado.",
+  "no_bots": "{e_add} Nenhum bot ainda — toque em <b>Meus Bots</b> para criar o seu primeiro. Leva menos de um minuto.",
+  "help_btn": "Ajuda",
+  "language_btn": "Idioma",
+  "my_bots_btn": "Meus Bots",
+  "news_btn": "Nossas Novidades",
+  "premium_btn": "Premium",
+  "title": "{e_home} <b>Menu Principal</b>",
+  "welcome": "{e_bot} <b>Bem-vindo ao ChatFuel, {name}!</b>\n\n<i>A plataforma completa de gerenciamento de bots para o Telegram — sem necessidade de programação.</i>\n\n<b>O que você pode fazer:</b>\n<blockquote expandable>• Criar menus interativos com ações de botões\n• Coletar respostas dos assinantes passo a passo com Formulários\n• Transmitir mensagens para todo o seu público\n• Automatizar respostas com gatilhos de Palavras-chave\n• Acompanhar crescimento &amp; engajamento com Analytics\n• Executar campanhas de Indicação &amp; portais de Acesso Pago\n• Proteger seu bot com Captcha &amp; Force Join</blockquote>\n\n<b>Toque em Meus Bots abaixo para começar.</b>"
+}
